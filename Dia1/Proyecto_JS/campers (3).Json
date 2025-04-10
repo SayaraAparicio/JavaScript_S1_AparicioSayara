@@ -1,0 +1,918 @@
+{
+  "Campers": {
+    "0": {
+      "#NumeroDeIdentificacion": 0,
+      "Contrase\u00f1a": 0,
+      "Nombres": "Sayara Yurley",
+      "apellidos": "aparicio arciniegas",
+      "Direccion": "Cra 28w #64-63",
+      "acudiente": "Claudia arciniegas",
+      "Telefonos": "3164388588",
+      "Estado": "Inscrito",
+      "Jornada": "",
+      "Ruta": {}
+    },
+    "1": {
+      "#NumeroDeIdentificacion": 1,
+      "Contrase\u00f1a": 1,
+      "Nombres": "Harley Yefrey",
+      "apellidos": "Cabrales Vargas",
+      "Direccion": "cll 12a #9-68",
+      "acudiente": "vaegas yadira",
+      "Telefonos": "3134822492",
+      "Estado": "Inscrito",
+      "Jornada": "",
+      "Ruta": {}
+    },
+    "2": {
+      "#NumeroDeIdentificacion": 2,
+      "Contrase\u00f1a": 2,
+      "Nombres": "adri\u00e1n",
+      "apellidos": "Quintero Pinz\u00f3n",
+      "Direccion": "cll 15 #8-70",
+      "acudiente": "Carlos Quintero",
+      "Telefonos": "3125890142",
+      "Estado": "Inscrito",
+      "Jornada": "",
+      "Ruta": {}
+    },
+    "3": {
+      "#NumeroDeIdentificacion": 3,
+      "Contrase\u00f1a": 3,
+      "Nombres": "alejandra",
+      "apellidos": "Pinz\u00f3n alvarez",
+      "Direccion": "cll 4 #10-22",
+      "acudiente": "ana Pinz\u00f3n",
+      "Telefonos": "3142381597",
+      "Estado": "Inscrito",
+      "Jornada": "",
+      "Ruta": {}
+    },
+    "4": {
+      "#NumeroDeIdentificacion": 4,
+      "Contrase\u00f1a": 4,
+      "Nombres": "\u00c1mbar Isabella",
+      "apellidos": "Plata L\u00f3pez",
+      "Direccion": "cll 20 #12-45",
+      "acudiente": "Fernando Plata",
+      "Telefonos": "3194735201",
+      "Estado": "Inscrito",
+      "Jornada": "",
+      "Ruta": {}
+    },
+    "5": {
+      "#NumeroDeIdentificacion": 5,
+      "Contrase\u00f1a": 5,
+      "Nombres": "andr\u00e9s David",
+      "apellidos": "Reyes Espinel",
+      "Direccion": "cll 7 #14-32",
+      "acudiente": "Beatriz Espinel",
+      "Telefonos": "3124789387",
+      "Estado": "Inscrito",
+      "Jornada": "",
+      "Ruta": {}
+    },
+    "6": {
+      "#NumeroDeIdentificacion": 6,
+      "Contrase\u00f1a": 6,
+      "Nombres": "aura Camila",
+      "apellidos": "Pico araque",
+      "Direccion": "cll 3 #10-10",
+      "acudiente": "Jos\u00e9 Pico",
+      "Telefonos": "3179984562",
+      "Estado": "Inscrito",
+      "Jornada": "",
+      "Ruta": {}
+    },
+    "7": {
+      "#NumeroDeIdentificacion": 7,
+      "Contrase\u00f1a": 7,
+      "Nombres": "Camilo andr\u00e9s",
+      "apellidos": "Su\u00e1rez Fuentes",
+      "Direccion": "cll 11 #9-50",
+      "acudiente": "Sandra Fuentes",
+      "Telefonos": "3187852367",
+      "Estado": "Inscrito",
+      "Jornada": "",
+      "Ruta": {}
+    },
+    "8": {
+      "#NumeroDeIdentificacion": 8,
+      "Contrase\u00f1a": 8,
+      "Nombres": "Daniel Esteban",
+      "apellidos": "Guerrero Quintero",
+      "Direccion": "cll 16 #6-20",
+      "acudiente": "Esteban Guerrero",
+      "Telefonos": "3158562309",
+      "Estado": "Inscrito",
+      "Jornada": "",
+      "Ruta": {}
+    },
+    "9": {
+      "#NumeroDeIdentificacion": 9,
+      "Contrase\u00f1a": 9,
+      "Nombres": "David Santiago",
+      "apellidos": "Vera Mendez",
+      "Direccion": "cll 9 #13-30",
+      "acudiente": "Luis Vera",
+      "Telefonos": "3147625483",
+      "Estado": "Inscrito",
+      "Jornada": "",
+      "Ruta": {}
+    },
+    "10": {
+      "#NumeroDeIdentificacion": 10,
+      "Contrase\u00f1a": 10,
+      "Nombres": "Edgar Leonardo",
+      "apellidos": "acevedo arteaga",
+      "Direccion": "cll 18 #7-15",
+      "acudiente": "Carlos acevedo",
+      "Telefonos": "3159982135",
+      "Estado": "Inscrito",
+      "Jornada": "",
+      "Ruta": {}
+    },
+    "11": {
+      "#NumeroDeIdentificacion": 11,
+      "Contrase\u00f1a": 11,
+      "Nombres": "Gerson Steven",
+      "apellidos": "Chaparro Mart\u00ednez",
+      "Direccion": "cll 14 #3-25",
+      "acudiente": "adriana Mart\u00ednez",
+      "Telefonos": "3115792008",
+      "Estado": "Inscrito",
+      "Jornada": "",
+      "Ruta": {}
+    },
+    "12": {
+      "#NumeroDeIdentificacion": 12,
+      "Contrase\u00f1a": 12,
+      "Nombres": "John Stiven",
+      "apellidos": "Negron Regalado",
+      "Direccion": "cll 22 #11-40",
+      "acudiente": "Carlos Negron",
+      "Telefonos": "3164809123",
+      "Estado": "Inscrito",
+      "Jornada": "",
+      "Ruta": {}
+    },
+    "13": {
+      "#NumeroDeIdentificacion": 13,
+      "Contrase\u00f1a": 13,
+      "Nombres": "Juan David",
+      "apellidos": "Savedra Jaimez",
+      "Direccion": "cll 5 #7-20",
+      "acudiente": "Mar\u00eda Jaimez",
+      "Telefonos": "3119056714",
+      "Estado": "Inscrito",
+      "Jornada": "",
+      "Ruta": {}
+    },
+    "14": {
+      "#NumeroDeIdentificacion": 14,
+      "Contrase\u00f1a": 14,
+      "Nombres": "Juan David",
+      "apellidos": "Santoyo Jaimes",
+      "Direccion": "cll 10 #12-19",
+      "acudiente": "Jorge Santoyo",
+      "Telefonos": "3176541235",
+      "Estado": "Inscrito",
+      "Jornada": "",
+      "Ruta": {}
+    },
+    "15": {
+      "#NumeroDeIdentificacion": 15,
+      "Contrase\u00f1a": 15,
+      "Nombres": "Juan David",
+      "apellidos": "Vargas Soto",
+      "Direccion": "cll 17 #8-35",
+      "acudiente": "Diana Soto",
+      "Telefonos": "3154067452",
+      "Estado": "Inscrito",
+      "Jornada": "",
+      "Ruta": {}
+    },
+    "16": {
+      "#NumeroDeIdentificacion": 16,
+      "Contrase\u00f1a": 16,
+      "Nombres": "Juan Eduardo",
+      "apellidos": "Pinilla Guzm\u00e1n",
+      "Direccion": "cll 21 #13-28",
+      "acudiente": "Eduardo Pinilla",
+      "Telefonos": "3194675920",
+      "Estado": "Inscrito",
+      "Jornada": "",
+      "Ruta": {}
+    },
+    "17": {
+      "#NumeroDeIdentificacion": 17,
+      "Contrase\u00f1a": 17,
+      "Nombres": "Juan Fernando",
+      "apellidos": "Uma\u00f1a Barragan",
+      "Direccion": "cll 6 #10-45",
+      "acudiente": "Mar\u00eda Barragan",
+      "Telefonos": "3143892501",
+      "Estado": "Inscrito",
+      "Jornada": "",
+      "Ruta": {}
+    },
+    "18": {
+      "#NumeroDeIdentificacion": 18,
+      "Contrase\u00f1a": 18,
+      "Nombres": "Juan Jose",
+      "apellidos": "abril Roman",
+      "Direccion": "cll 25 #9-10",
+      "acudiente": "ana abril",
+      "Telefonos": "3129982034",
+      "Estado": "Inscrito",
+      "Jornada": "",
+      "Ruta": {}
+    },
+    "19": {
+      "#NumeroDeIdentificacion": 19,
+      "Contrase\u00f1a": 19,
+      "Nombres": "Maria Juliana",
+      "apellidos": "Savedra Mejia",
+      "Direccion": "cll 9 #15-30",
+      "acudiente": "Juliana Mejia",
+      "Telefonos": "3168124657",
+      "Estado": "Inscrito",
+      "Jornada": "",
+      "Ruta": {}
+    },
+    "20": {
+      "#NumeroDeIdentificacion": 20,
+      "Contrase\u00f1a": 20,
+      "Nombres": "Mateo",
+      "apellidos": "Roman Camargo",
+      "Direccion": "cll 12 #5-13",
+      "acudiente": "Luis Camargo",
+      "Telefonos": "3145287634",
+      "Estado": "Inscrito",
+      "Jornada": "",
+      "Ruta": {}
+    },
+    "21": {
+      "#NumeroDeIdentificacion": 21,
+      "Contrase\u00f1a": 21,
+      "Nombres": "Naya Zarela",
+      "apellidos": "Lizcano Jaimes",
+      "Direccion": "cll 18 #8-20",
+      "acudiente": "Ricardo Lizcano",
+      "Telefonos": "3185643721",
+      "Estado": "Inscrito",
+      "Jornada": "",
+      "Ruta": {}
+    },
+    "22": {
+      "#NumeroDeIdentificacion": 22,
+      "Contrase\u00f1a": 22,
+      "Nombres": "Nicolas",
+      "apellidos": "Chedraui Mantilla",
+      "Direccion": "cll 13 #17-10",
+      "acudiente": "Jos\u00e9 Chedraui",
+      "Telefonos": "3198745632",
+      "Estado": "Inscrito",
+      "Jornada": "",
+      "Ruta": {}
+    },
+    "23": {
+      "#NumeroDeIdentificacion": 23,
+      "Contrase\u00f1a": 23,
+      "Nombres": "Omar Fernando",
+      "apellidos": "Granados Parra",
+      "Direccion": "cll 3 #7-35",
+      "acudiente": "Sandra Granados",
+      "Telefonos": "3128749102",
+      "Estado": "Inscrito",
+      "Jornada": "",
+      "Ruta": {}
+    },
+    "24": {
+      "#NumeroDeIdentificacion": 24,
+      "Contrase\u00f1a": 24,
+      "Nombres": "Santiago",
+      "apellidos": "aguilar Vesga",
+      "Direccion": "cll 22 #16-40",
+      "acudiente": "Carlos aguilar",
+      "Telefonos": "3154783916",
+      "Estado": "Inscrito",
+      "Jornada": "",
+      "Ruta": {}
+    },
+    "25": {
+      "#NumeroDeIdentificacion": 25,
+      "Contrase\u00f1a": 25,
+      "Nombres": "Santiago andr\u00e9s",
+      "apellidos": "Qui\u00f1onez Sosa",
+      "Direccion": "cll 10 #12-55",
+      "acudiente": "Luz Qui\u00f1onez",
+      "Telefonos": "3196548123",
+      "Estado": "Inscrito",
+      "Jornada": "",
+      "Ruta": {}
+    },
+    "26": {
+      "#NumeroDeIdentificacion": 26,
+      "Contrase\u00f1a": 26,
+      "Nombres": "Santiago",
+      "apellidos": "Jaimes Perez",
+      "Direccion": "cll 14 #5-8",
+      "acudiente": "Carlos Jaimes",
+      "Telefonos": "3172585964",
+      "Estado": "Inscrito",
+      "Jornada": "",
+      "Ruta": {}
+    },
+    "27": {
+      "#NumeroDeIdentificacion": 27,
+      "Contrase\u00f1a": 27,
+      "Nombres": "Sara Sof\u00eda",
+      "apellidos": "D\u00edaz Rodr\u00edguez",
+      "Direccion": "cll 19 #9-30",
+      "acudiente": "Laura D\u00edaz",
+      "Telefonos": "3146598321",
+      "Estado": "Inscrito",
+      "Jornada": "",
+      "Ruta": {}
+    },
+    "28": {
+      "#NumeroDeIdentificacion": 28,
+      "Contrase\u00f1a": 28,
+      "Nombres": "sergio andr\u00e9s",
+      "apellidos": "Rueda Hern\u00e1ndez",
+      "Direccion": "cll 16 #4-50",
+      "acudiente": "Roberto Rueda",
+      "Telefonos": "3198402591",
+      "Estado": "Inscrito",
+      "Jornada": "",
+      "Ruta": {}
+    },
+    "29": {
+      "#NumeroDeIdentificacion": 29,
+      "Contrase\u00f1a": 29,
+      "Nombres": "Sim\u00f3n Dante",
+      "apellidos": "Salamanca Galvis",
+      "Direccion": "cll 2 #5-18",
+      "acudiente": "andr\u00e9s Salamanca",
+      "Telefonos": "3159842043",
+      "Estado": "Inscrito",
+      "Jornada": "",
+      "Ruta": {}
+    },
+    "30": {
+      "#NumeroDeIdentificacion": 30,
+      "Contrase\u00f1a": 30,
+      "Nombres": "Thomas sebasti\u00e1n",
+      "apellidos": "Bastos Garcia",
+      "Direccion": "cll 7 #12-8",
+      "acudiente": "Eduardo Bastos",
+      "Telefonos": "3177450823",
+      "Estado": "Inscrito",
+      "Jornada": "",
+      "Ruta": {}
+    },
+    "31": {
+      "#NumeroDeIdentificacion": 31,
+      "Contrase\u00f1a": 31,
+      "Nombres": "Vladimir",
+      "apellidos": "Diaz Contreras",
+      "Direccion": "cll 5 #14",
+      "acudiente": "Carlos Diaz",
+      "Telefonos": "3102345678",
+      "Estado": "Aprobado",
+      "Jornada": "",
+      "Ruta": ""
+    },
+    "32": {
+      "#NumeroDeIdentificacion": 32,
+      "Contrase\u00f1a": 1,
+      "Nombres": "edgar",
+      "apellidos": "barragan",
+      "Direccion": "calle12",
+      "acudiente": "edilma",
+      "Telefonos": "313456677898",
+      "Estado": "Inscrito",
+      "Jornada": "",
+      "Ruta": {}
+    }
+  },
+  "Trainers": {
+    "0": {
+      "NumeroDeIdentificacion": 0,
+      "Contrase\u00f1a": 0,
+      "Nombres": "Pedro",
+      "apellidos": "Gomez ",
+      "Horarios": "",
+      "Estado": "Trainer"
+    },
+    "1": {
+      "NumeroDeIdentificacion": 1,
+      "Contrase\u00f1a": 1,
+      "Nombres": "Jolver",
+      "apellidos": "Pardo",
+      "Horarios": "",
+      "Estado": "Trainer"
+    },
+    "2": {
+      "NumeroDeIdentificacion": 2,
+      "Contrase\u00f1a": 2,
+      "Nombres": "Miguel",
+      "apellidos": "Castro",
+      "Horarios": "",
+      "Estado": "Trainer"
+    },
+    "3": {
+      "NumeroDeIdentificacion": 3,
+      "Contrase\u00f1a": 3,
+      "Nombres": "Juan Carlos",
+      "apellidos": "Mari\u00f1o",
+      "Horarios": "",
+      "Estado": "Trainer"
+    },
+    "4": {
+      "NumeroDeIdentificacion": 4,
+      "Contrase\u00f1a": 4,
+      "Nombres": "Carlos",
+      "apellidos": "Rueda",
+      "Horarios": "",
+      "Estado": "Trainer"
+    }
+  },
+  "Coordinadores": {
+    "0": {
+      "NumeroDeIdentificacion": 0,
+      "Contrase\u00f1a": 0,
+      "Nombres": "Andres",
+      "apellidos": "lizaraso",
+      "Estado": "Coordinador"
+    }
+  },
+  "aulas": {
+    "0": {
+      "Nombre": "Esputnik",
+      "HoraDeInicio": "6 A.M.",
+      "HoraDeFin": "10 P.M.",
+      "Horarios": {
+        "1": "6 A.M.-10 A.M.",
+        "2": "10 A.M.-12 M.",
+        "3": "2 P.M.-6 P.M.",
+        "4": "6 P.M.-10 P.M."
+      },
+      "HorariosDisponibles": {
+        "1": "6 A.M.-10 A.M.",
+        "2": "10 A.M.-12 M.",
+        "3": "2 P.M.-6 P.M.",
+        "4": "6 P.M.-10 P.M."
+      }
+    },
+    "1": {
+      "Nombre": "Atermis",
+      "HoraDeInicio": "6 A.M.",
+      "HoraDeFin": "10 P.M.",
+      "Horarios": {
+        "1": "6 A.M.-10 A.M.",
+        "2": "10 A.M.-12 M.",
+        "3": "2 P.M.-6 P.M.",
+        "4": "6 P.M.-10 P.M."
+      },
+      "HorariosDisponibles": {
+        "1": "6 A.M.-10 A.M.",
+        "2": "10 A.M.-12 M.",
+        "3": "2 P.M.-6 P.M.",
+        "4": "6 P.M.-10 P.M."
+      }
+    },
+    "2": {
+      "Nombre": "Apolo",
+      "HoraDeInicio": "6 A.M.",
+      "HoraDeFin": "10 P.M.",
+      "Horarios": {
+        "1": "6 A.M.-10 A.M.",
+        "2": "10 A.M.-12 M.",
+        "3": "2 P.M.-6 P.M.",
+        "4": "6 P.M.-10 P.M."
+      },
+      "HorariosDisponibles": {
+        "1": "6 A.M.-10 A.M.",
+        "2": "10 A.M.-12 M.",
+        "3": "2 P.M.-6 P.M.",
+        "4": "6 P.M.-10 P.M."
+      }
+    }
+  },
+  "Grupos": {
+    "1": {
+      "Horario": "",
+      "Aula": "",
+      "Ruta": "",
+      "Trainer": "",
+      "Campers": {}
+    },
+    "2": {
+      "Horario": "",
+      "Aula": "",
+      "Ruta": "",
+      "Trainer": "",
+      "Campers": {}
+    },
+    "3": {
+      "Horario": "",
+      "Aula": "",
+      "Ruta": "",
+      "Trainer": "",
+      "Campers": {}
+    },
+    "4": {
+      "Horario": "",
+      "Aula": "",
+      "Ruta": "",
+      "Trainer": "",
+      "Campers": {}
+    },
+    "5": {
+      "Horario": "",
+      "Aula": "",
+      "Ruta": "",
+      "Trainer": "",
+      "Campers": {}
+    },
+    "6": {
+      "Horario": "",
+      "Aula": "",
+      "Ruta": "",
+      "Trainer": "",
+      "Campers": {}
+    },
+    "7": {
+      "Horario": "",
+      "Aula": "",
+      "Ruta": "",
+      "Trainer": "",
+      "Campers": {}
+    },
+    "8": {
+      "Horario": "",
+      "Aula": "",
+      "Ruta": "",
+      "Trainer": "",
+      "Campers": {}
+    },
+    "9": {
+      "Horario": "",
+      "Aula": "",
+      "Ruta": "",
+      "Trainer": "",
+      "Campers": {}
+    },
+    "10": {
+      "Horario": "",
+      "Aula": "",
+      "Ruta": "",
+      "Trainer": "",
+      "Campers": {}
+    },
+    "11": {
+      "Horario": "",
+      "Aula": "",
+      "Ruta": "",
+      "Trainer": "",
+      "Campers": {}
+    }
+  },
+  "Rutas": {
+    "0": {
+      "Ruta": "Java",
+      "Intro": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ],
+      "Python": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ],
+      "Html/css": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ],
+      "Scrum": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ],
+      "Git": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ],
+      "Javascript": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ],
+      "IntroBack": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ],
+      "IntroBBDD": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ],
+      "MySQL": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ],
+      "Java": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ],
+      "PostgreSQL": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ],
+      "SpringBoot": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ]
+    },
+    "1": {
+      "Ruta": "NodeJS",
+      "Intro": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ],
+      "Python": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ],
+      "Html/css": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ],
+      "Scrum": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ],
+      "Git": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ],
+      "Javascript1": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ],
+      "IntroBack": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ],
+      "IntroBBDD": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ],
+      "MongoDB": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ],
+      "Javascript2": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ],
+      "MySQL": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ],
+      "Express": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ]
+    },
+    "2": {
+      "Ruta": "NetCore",
+      "Intro": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ],
+      "Python": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ],
+      "Html/css": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ],
+      "Scrum": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ],
+      "Git": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ],
+      "Javascript": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ],
+      "IntroBack": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ],
+      "IntroBBDD": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ],
+      "MySQL": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ],
+      "C##": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ],
+      "PostgreSQL": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ],
+      ".NetCore": [
+        {
+          "Proyecto60% ": 0,
+          "Filtro30%": 0,
+          "Trabajos10%": 0,
+          "Final": 0,
+          "Riesgo": "Alto"
+        }
+      ]
+    }
+  }
+}
