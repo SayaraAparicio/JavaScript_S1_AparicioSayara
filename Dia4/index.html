@@ -3,19 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Pokedex</title>
     <link rel="icon" type="image/x-icon" href="https://upload.wikimedia.org/wikipedia/commons/5/53/Pok%C3%A9_Ball_icon.svg">
     <link rel="stylesheet" href="./styles/style.css">
 </head>
 <body>
-    <img class="pokedex" src="./storage / img/pokedex (1).png" >
-    <div id="showUp">Who?</div>
-    <div id="sprite"></div>
-    <input id="pokeId" type="text" placeholder="Name or Number">
-    <div class="buttons">
-        <button onclick="minus_id()" id="prev"> < Prev </button>
-        <button onclick="plus_id()" id="next"> Next > </button>
-    </div>
+    <main>
+        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" alt="" class="pokemon_gif">
+        <img class="pokedex" src="./storage / img/pokedex (1).png" >
+        <div id="showUp">Who?</div>
+        <div id="sprite"></div>
+        <input id="pokeId" type="text" placeholder="Name or Number">
+        <div class="buttons">
+            <button onclick="minus_id()" id="prev"> < Prev </button>
+            <button onclick="plus_id()" id="next"> Next > </button>
+        </div>
+    </main>
 </body>
 <script src="./script/script.js"></script>
 </html>
