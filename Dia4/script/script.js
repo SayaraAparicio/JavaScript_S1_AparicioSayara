@@ -1,6 +1,6 @@
 const pokemonName = document.querySelector('.pokemon_name');
 const pokemonNumber = document.querySelector('.pokeman_number');
-const pokemonImage = document.querySelector('.pokedex');
+const pokemonImage = document.querySelector('.pokemon_gif');
 
 const form = document.querySelector('.form');
 const input = document.querySelector('.input_search');
