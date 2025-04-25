@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "grande";
+    src: url(../font/MYRIADPRO-BOLD.OTF);
+}
+
+@font-face {
+    font-family: "pequeño";
+    src: url(../font/MYRIADPRO-REGULAR.OTF);
+}
+
+
+body {
+    position: relative;
+    background-image: url('../img/fondo.jpg');
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
