@@ -78,3 +78,70 @@ h1 {
     align-items: center;
     width: 20%;
 }
+h3{
+    font-family: "grande";
+    font-size: 1vw;
+    color: #fff;
+    text-align: center;
+    animation: fade 3s forwards;
+}
+#jugador{
+    position: absolute;
+    top: 35%;
+    left: 31%;
+    align-items: center;
+    width: 20%;
+}
+#maquina{
+    position: absolute;
+    top: 35%;
+    left: 51%;
+    align-items: center;
+    width: 20%;
+}
+
+@keyframes fade {
+    0% {
+        opacity: 0; 
+    }
+    100% {
+        opacity: 1; 
+    }
+}
+
+.BotonPlay{
+    position: absolute;
+    width: 13%;
+    height: 5%;
+    left: 44%;
+    top: 45vw;
+    font-size: 1.4vw;
+    font-family: "grande";
+    border: 0.3vw solid white;
+    border-top-left-radius:  0.5vw;
+    border-top-right-radius: 0.5vw;
+    border-bottom-left-radius: 0.5vw;
+    border-bottom-right-radius: 0.5vw;
+    animation: fade 3s forwards, pulse 1.5s infinite;
+    animation-delay: 0s, 1s; }
+
+p {
+    font-family: "grande";
+    font-size: 1.3vw;
+    color: #fff;
+    text-align: center;
+    position: absolute;
+    top: 41vw;
+    left: 47.5%;
+}
+
+#player-card{
+    position: absolute;
+    top: 40%;
+    left: 35%;
+}
+#machine-card{
+    position: absolute;
+    top: 40%;
+    left: 55%;
+}
