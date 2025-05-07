@@ -7,7 +7,7 @@
     <link href="../styles/bootstrap.css" rel="stylesheet">
     <title>SuperHeros</title>
   </head>
-  <body>
+  <body style="background: linear-gradient(to right, rgb(255, 255, 255), rgb(167, 165, 165))">
     
     <div class="container mt-5">  
         <div class="card">
@@ -58,10 +58,19 @@
                   <option>Otro</option>
                 </select>
               </div>
-      
+              <div id="trajes">
+               <div class="container mt-5">
+                <div class="card">
+                  <div class="card-header">
+                    <h2> Registro de Trajes</h2>
+                  </div>
+                </div>
+               </div>
+
+              </div>
 
               <div class="d-flex justify-content-start gap-3">
-                <button type="button" class="btn btn-dark">Nuevo Héroe</button>
+                <button type="button" class="btn btn-dark" id="btn-traje">Nuevo Héroe</button>
                 <button type="submit" class="btn btn-primary">Guardar Héroe</button>
                 <button type="button" class="btn btn-danger"><a style="text-decoration: none;" class="text-white" href="../html/index.html">Cancelar</a></button>
               </div>
@@ -72,5 +81,5 @@
       </div>
     
   </body>
-  <script src="./scripts/script.js"></script>
+  <script src="../scripts/addhero.js"></script>
 </html>

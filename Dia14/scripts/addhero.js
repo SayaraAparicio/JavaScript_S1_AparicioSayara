@@ -62,3 +62,11 @@ document.addEventListener('DOMContentLoaded', () => {
         console.error('No se encontró el formulario');
     }
 });
+
+const botonTraje = document.getElementById('btn-traje');
+botonTraje.addEventListener('click', TrajesDiv)
+
+const trajes = document.getElementById ('trajes');
+async function TrajesDiv(){
+    trajes.innerHTML = "" ;
+}
