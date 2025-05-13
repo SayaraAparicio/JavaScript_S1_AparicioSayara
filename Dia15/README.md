@@ -6,6 +6,11 @@
 ![PacoPets](./img/imagen.png) 
 ---
 
+### Figma: 
+---
+[Dale Click!](https://www.figma.com/design/Oxxnd1Y94HhWi3HJtSq2De/Eventos?node-id=0-1&p=f&t=4oS8HnAGidHFc8ZW-0)
+---
+
 ## 💖 Características
 ---
 - 🐶 Pet adoption listings with filters by type (dogs, cats, rabbits)
