@@ -1,0 +1,37 @@
+@font-face {
+    font-family: "grande";
+    src: url(../font/Inter_18pt-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: "medio";
+    src: url(../font/Inter_18pt-Medium.ttf);
+
+}
+@font-face {
+    font-family: "pequeño";
+    src: url(../font/Inter_24pt-SemiBold.ttf);
+}
+
+.nav-item {
+    font-family: 'pequeño', sans-serif;
+}
+.container{
+    font-family: 'grande', sans-serif;
+}
+#desc{
+    font-family: 'medio';
+}
+#desc_1{
+    font-family: 'grande';
+}
+#fav{
+    font-family: 'pequeño', sans-serif;
+    margin-top: 8px;
+}
+#heart{
+    margin-top: 8px;
+}
+#fav1{
+    font-family: 'pequeño', sans-serif;
+}
