@@ -12,6 +12,13 @@
     font-family: "pequeño";
     src: url(../font/Inter_24pt-SemiBold.ttf);
 }
+body 
+{ animation: logoSequence 4s linear forwards;}
+
+@keyframes logoSequence {
+    0% { opacity: 0; }
+    23% { opacity: 1; }
+}
 
 .nav-item {
     font-family: 'pequeño', sans-serif;
@@ -34,4 +41,91 @@
 }
 #fav1{
     font-family: 'pequeño', sans-serif;
+}
+
+/* Estilo para la zona de arrastre */
+#dropZone {
+    transition: all 0.3s ease;
+    backdrop-filter: blur(5px);
+  }
+  
+  /* Efecto hover para el botón */
+  #searchByImageBtn:hover {
+    background-color: #f8f9fa !important;
+  }
+
+  /* Estilos para las tarjetas de mascotas */
+.card {
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: all 0.3s ease;
+    border: none;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(255, 163, 192, 0.3);
+}
+
+.card-img-top {
+    height: 500px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.card-body {
+    padding: 1.25rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    color: #333;
+}
+
+.card-text {
+    margin-bottom: 0.3rem;
+    font-size: 0.9rem;
+}
+
+.card-text small {
+    font-size: 0.8rem;
+}
+
+.btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+    margin-top: auto;
+    padding: 0.5rem;
+}
+
+
+#dropZone {
+    backdrop-filter: blur(5px);
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+
+#searchByImageBtn:hover {
+    background-color: #f8f9fa !important;
+    transform: translateY(-1px);
+}
+
+#popularPetsContainer .card-img-top {
+    height: 300px; 
+}
+
+#popularPetsContainer .card-title {
+    font-size: 1.1rem;
+}
+
+/* Asegurar consistencia en los dropdowns */
+.dropdown-menu {
+    max-height: 300px;
+    overflow-y: auto;
 }
